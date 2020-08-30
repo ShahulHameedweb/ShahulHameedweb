@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**ShahulHameedweb/ShahulHameedweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My name is Shahul Hameed and I'm a Full Stack Developer.
-
-Here are some ideas to get you started:
+### My name is Shahul Hameed and I'm a Full Stack Developer👋
 
 - 🔭 I’m currently working on ...Realiti.io
 - 🌱 I’m currently learning ...Python
